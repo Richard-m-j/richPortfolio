@@ -19,6 +19,14 @@ jobs:
         with:
           submodules: true
           lfs: false
+
+      # Ensure Node.js is set up properly for the build
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+      
+      # Install dependencies, build, and deploy
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
