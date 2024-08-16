@@ -81,7 +81,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Product Engineer Intern",
-      logoUrl: "/carestack.png", // Replace with the actual logo if you have it or leave blank
+      logoUrl: "/CareStack.png", // Replace with the actual logo if you have it or leave blank
       start: "July 2024",
       end: "Present",
       description:
@@ -93,7 +93,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "AI Engineer Intern",
-      logoUrl: "/solyield.png", // Replace with the actual logo if you have it or leave blank
+      logoUrl: "/SolYield.png", // Replace with the actual logo if you have it or leave blank
       start: "February 2024",
       end: "April 2024",
       description:
