@@ -1,47 +1,23 @@
 <div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
+<img alt="Richard's Portfolio" src="https://your-image-hosting-service.com/path-to-your-image.jpg" width="90%">
 </div>
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+# Richard's Portfolio
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+Welcome to my professional portfolio, built with Next.js and deployed on Azure. This site showcases my projects, skills, and contributions to the tech community.
 
-# Features
+## Features
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+- **Portfolio Showcase**: Displays my most significant projects and achievements.
+- **Blog Section**: Features articles and tutorials I've written to share knowledge and insights.
+- **Responsive Design**: Ensures a great experience on devices of all sizes, from phones to desktops.
+- **Modern Technology Stack**: Utilizes the latest in web development frameworks and practices.
 
-# Getting Started Locally
+## Local Development
 
-1. Clone this repository to your local machine:
+To run this portfolio locally, follow these steps:
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
-
-2. Move to the cloned directory
+1. **Clone the Repository**
 
    ```bash
-   cd portfolio
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pnpm install
-   ```
-
-4. Start the local Server:
-
-   ```bash
-   pnpm dev
-   ```
-
-5. Open the [Config file](./src/data/resume.tsx) and make changes
-
-# License
-
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+   git clone https://github.com/yourgithubusername/portfolio.git
