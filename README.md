@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Richard's Portfolio" src="https://your-image-hosting-service.com/path-to-your-image.jpg" width="90%">
+<img alt="Richard's Portfolio" src="demo.gif" width="90%">
 </div>
 
 # Richard's Portfolio
